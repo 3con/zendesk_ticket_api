@@ -1,6 +1,5 @@
 <?php
 //error_reporting(0);
-//changes by me
 include("autoloader.php");
 
 use Zendesk\API\Client as ZendeskAPI;
